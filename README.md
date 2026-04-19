@@ -17,7 +17,7 @@ me to quite the quagmire in trying to fit much larger components in a board with
 16MB of flash storage, some 8x more than the Raspberry Pi Pico. And an LDO capable of drawing more current. So yeah here's that as a unique factor LOL.
 
 
-ChatGPT did me a solid on this one. If you're interested in seeing an LLM teach the equivalent of a foulmouthed juvenile chimpanzee how PCB's work, here's our full conversation:
+ChatGPT did me a solid on this one. If you're interested in seeing an LLM teach the equivalent of a foulmouthed juvenile chimpanzee how PCB's work, here's our full conversation: https://chatgpt.com/share/69e56555-d1f8-83eb-b878-137e63521a72
 And don't worry, the most "AI" that was actually _directly_ inolved in the making of this project was the DRC rules checker. 
 By the way, I doubt this counts as a complexity 3 project simply due to the hour count. But hey it can't hurt to ask right?
 
