@@ -32,7 +32,7 @@ And here's the BOM as a raw CSV:
 
 "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","#"
 "12MHz1","1","Crystal_GND24","","","","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","","1"
-"C1,C2","2","10uF","","","","Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder","","2"
+"C1,C2","2","10uF","","","","Capacitor_SMD:C_0603_1608Metric","","2"
 "C3,C22","2","33pF","","","","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","","3"
 "C5,C7,C8,C9,C10,C11,C12,C13,C14,C16,C17","11","0.1uF","","","","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","","4"
 "C6,C15","2","1uF","","","","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","","5"
@@ -49,5 +49,6 @@ And here's the BOM as a raw CSV:
 "U2","1","NCP1117-3.3_SOT223","","","","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF","16"
 "U3","1","W25Q128JVS","","","","Package_SO:SOIC-8_5.3x5.3mm_P1.27mm","https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf","17"
 
-
 Have a good one reviewing! My journal features a couple particularily humourous entries.
+
+Update: fixed a capacitor footprint mismatch issue. Version 1A3 is the most current one, ready for review. Note that some files may or may not be mistakenly named as MsCp-XXX.
