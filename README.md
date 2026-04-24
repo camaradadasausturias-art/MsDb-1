@@ -20,7 +20,8 @@ And don't worry, the most "AI" that was actually _directly_ inolved in the makin
 Anyhow, here's some eye candy for your troubles of  reading this:
 <img width="1919" height="1079" alt="Screenshot 2026-04-19 185134" src="https://github.com/user-attachments/assets/74f4ee98-fc99-492a-a66a-f6acf8d9b62e" />
 <img width="256" height="574" alt="image" src="https://github.com/user-attachments/assets/50e3f172-bb21-4150-93af-4e7fc5ef0ddf" />
-<img width="627" height="428" alt="image" src="https://github.com/user-attachments/assets/78498623-64d0-4b2d-9353-6c505533d0ae" />
+<img width="1022" height="643" alt="image" src="https://github.com/user-attachments/assets/5ae3b076-bb8f-417b-850c-7c1d8cdcdec4" />
+
 
 And here's the BOM from the website:
 [BOM MsDb-1A3-JLCPCB Assembly Order (1).csv](https://github.com/user-attachments/files/26879597/BOM.MsDb-1A3-JLCPCB.Assembly.Order.1.csv)
